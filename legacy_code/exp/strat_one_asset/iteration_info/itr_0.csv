@@ -1,0 +1,2 @@
+,BA_spead,last_traded_price,Smart_price,Liquidity_imb,market_cost,remained_shares,remained_time,reward,order_type,is_buy,premium,obj_price,base_price,executed,done
+2,0.06999999999999318,0.14912999999999998,0.14915851851851852,0.005,0.0007547799999999825,2.0,5.0,-0.6,OrderType.LIMIT_SELL,False,0.0,149.12,149.12,2,True

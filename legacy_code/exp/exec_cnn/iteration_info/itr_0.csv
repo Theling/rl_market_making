@@ -1,0 +1,2 @@
+,remained_shares,remained_time,reward,order_type,is_buy,premium,obj_price,base_price,executed,done
+58,7,5,1.4700000000000002,OrderType.LIMIT_SELL,False,0.01,153.411428572578,153.401428572578,7,True

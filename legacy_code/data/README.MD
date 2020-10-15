@@ -1,0 +1,1 @@
+This directory is to store data and checkpoint. (2018-7-30)
